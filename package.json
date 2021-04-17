@@ -1,0 +1,27 @@
+{
+  "name": "b-web-200-tls-2-1-epytodo-lucas.lagnes",
+  "version": "1.0.0",
+  "description": "epitodo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechIT2020/B-WEB-200-TLS-2-1-epytodo-lucas.lagnes.git"
+  },
+  "author": "lucas lagnes / matéo baldassi / vincent ballandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechIT2020/B-WEB-200-TLS-2-1-epytodo-lucas.lagnes/issues"
+  },
+  "homepage": "https://github.com/EpitechIT2020/B-WEB-200-TLS-2-1-epytodo-lucas.lagnes#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "mysql2": "2.2.5",
+    "dotenv": "8.2.0",
+    "jsonwebtoken": "8.5.1",
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.19.0"
+  }
+}
